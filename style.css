@@ -1,0 +1,80 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#text {
+  width: 400px;
+  padding: 10px;
+  font-size: 16px;
+  margin-bottom: 10px;
+  margin-left: 450px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  margin-left: 590px;
+}
+
+button:hover {
+  background-color: #45a049;
+}
+
+#result {
+  margin-top: 20px;
+  text-align: center;
+}
+
+#result img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  margin-bottom: 10px;
+}
+
+#result h1 {
+  margin-bottom: 5px;
+}
+
+#result p {
+  margin-bottom: 10px;
+}
+
+#result a {
+  color: #0366d6;
+}
+
+#repos {
+  margin-top: 20px;
+  text-align: justify;
+  margin-left: 200px;
+}
+
+#repos h2 {
+  font-size: 20px;
+}
+
+#repos ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+#repos li {
+  margin-bottom: 10px;
+  font-size: 20px; /* Adjusted to 20px as requested */
+}
+
+#repos li a {
+  color: #0366d6;
+}
